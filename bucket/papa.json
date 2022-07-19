@@ -11,7 +11,6 @@
         "regex": "(v\\d\\.\\d\\.\\d)"
     },
     "autoupdate" : {
-        
         "url": "https://github.com/AnActualEmerald/papa/releases/download/$version/papa.exe"
     }
 }
