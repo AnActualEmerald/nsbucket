@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "AnActualEmerald/nsbucket:main"
+    [String]$upstream = "GreenTF/nsbucket:main"
 )
 
 if(!$env:SCOOP_HOME) { $env:SCOOP_HOME = Resolve-Path (scoop prefix scoop) }
